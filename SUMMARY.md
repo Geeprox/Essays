@@ -10,6 +10,7 @@
 * [手机摄影与 AI 的权利](blog/shou-ji-she-ying-yu-ai-de-quan-li.md)
 * [从经济学角度看组织管理问题](blog/cong-jing-ji-xue-jiao-du-kan-zu-zhi-guan-li-wen-ti.md)
 * [世界观 \(一\) - 随机与宿命论](blog/shi-jie-guan-yi-sui-ji-yu-su-ming-lun.md)
+* [世界观 \(二\) - 科学与模型](blog/shi-jie-guan-er-ke-xue-yu-mo-xing.md)
 
 ## Stories
 
